@@ -1,4 +1,4 @@
-require_relative '../lib/rocket_equation'
+require_relative '../lib/mass_fuel_calculator'
 
 RSpec.describe MassFuelCalculator do
   it 'should convert 12 to 2' do
